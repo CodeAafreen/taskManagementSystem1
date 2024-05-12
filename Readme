@@ -1,0 +1,5 @@
+To run the frontend successfully,please use the command ' npm run dev'.
+To connect the database in the backend, create a database in MYSQL ' taskmanagementsystem '.
+JDK Version 22.
+Spring boot 3.2.5
+Lombok
